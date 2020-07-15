@@ -14,7 +14,7 @@ This is a Sudoku Desktop application written in Python. This is my first attempt
 2. If you haven't already, install the pipenv tool with Python using the command line ```pip install pipenv```. This is considering that you have Python already installed in your machine.
 3. ```cd``` to the directory of the project.
 4. Open the command line and enter the command ```pipenv shell``` to activate the virtual environment.
-3. While still in the command line, enter the command ```python main.py``` and the GUI will launch. Enjoy!
+5. While still in the command line, enter the command ```python main.py``` and the GUI will launch. Enjoy!
 
 ## Packages / libraries / modules / frameworks used:
 1. **pygame** Python module for the game GUI.
