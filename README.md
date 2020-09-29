@@ -9,7 +9,7 @@ This is a Sudoku Desktop application written in Python. This is my first attempt
 ## Instructions for local machine use:
 1. Clone this repository.
 2. Open the command line interface and `cd` to the directory of this repository.
-3. Enter the command `source venv/bin/activate` to activate the virtual environment.
+3. Enter the command `pip install -r requirements.txt` to install the required modules.
 4. While still in the command line, enter the command `python main.py` and the GUI will launch. Enjoy!
 
 ## Packages / libraries / modules / frameworks used:
