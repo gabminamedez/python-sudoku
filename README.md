@@ -1,5 +1,5 @@
 # python-sudoku
-This is a Sudoku Desktop application written in Python. This is my first attempt at coding with PyGame, Python's module for creating games. This is a classic 9x9 board that follows the same rules of that of the classic Japanese puzzle.
+This is my first attempt at coding with PyGame, Python's module for creating games. This is a classic 9x9 board that follows the same rules of that of the classic Japanese puzzle Sudoku.
 
 ## Project Directory Guide
 1. `main.py` is the main Python file where the GUI is programmed.
